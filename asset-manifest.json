@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/karan-jathoul-assignment/static/css/main.3703cb90.chunk.css",
+    "main.js": "/karan-jathoul-assignment/static/js/main.ae3f3f8b.chunk.js",
+    "main.js.map": "/karan-jathoul-assignment/static/js/main.ae3f3f8b.chunk.js.map",
+    "runtime-main.js": "/karan-jathoul-assignment/static/js/runtime-main.bd63a90e.js",
+    "runtime-main.js.map": "/karan-jathoul-assignment/static/js/runtime-main.bd63a90e.js.map",
+    "static/css/2.383c0125.chunk.css": "/karan-jathoul-assignment/static/css/2.383c0125.chunk.css",
+    "static/js/2.0f0a321e.chunk.js": "/karan-jathoul-assignment/static/js/2.0f0a321e.chunk.js",
+    "static/js/2.0f0a321e.chunk.js.map": "/karan-jathoul-assignment/static/js/2.0f0a321e.chunk.js.map",
+    "static/js/3.239161ee.chunk.js": "/karan-jathoul-assignment/static/js/3.239161ee.chunk.js",
+    "static/js/3.239161ee.chunk.js.map": "/karan-jathoul-assignment/static/js/3.239161ee.chunk.js.map",
+    "index.html": "/karan-jathoul-assignment/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/karan-jathoul-assignment/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.3703cb90.chunk.css.map": "/karan-jathoul-assignment/static/css/main.3703cb90.chunk.css.map",
+    "static/js/2.0f0a321e.chunk.js.LICENSE.txt": "/karan-jathoul-assignment/static/js/2.0f0a321e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd63a90e.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.0f0a321e.chunk.js",
+    "static/css/main.3703cb90.chunk.css",
+    "static/js/main.ae3f3f8b.chunk.js"
+  ]
+}
